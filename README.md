@@ -11,7 +11,7 @@ A free project workbook from [10xhuman](https://10xhuman.net/?lang=en). Turn a s
 3. Try that flow with a potential user. Record what happened and what you changed.
 4. Add a demo, instructions and evidence so someone else can check your work.
 
-Prefer a guided start? Create a short brief in your browser:
+Prefer a guided start? Create a short brief in your browser. Choose an editable example for a first portfolio, recurring work, or a small business idea. Existing answers are kept; examples fill only empty fields:
 
 - [Create my project brief — English](https://10xhuman.net/start?lang=en&utm_source=github&utm_campaign=first_project)
 - [내 프로젝트 기획서 만들기 — 한국어](https://10xhuman.net/start?lang=ko&utm_source=github&utm_campaign=first_project)
