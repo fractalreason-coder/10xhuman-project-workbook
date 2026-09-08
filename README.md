@@ -19,6 +19,10 @@ Prefer a guided start? Create a short brief in your browser. Choose an editable 
 
 The brief tool is free and requires no signup. It formats your answers into a template; it does not assess or certify your work. You can download the brief or create a 10xhuman account to continue with problem definition. The full learning service has separate access terms shown on the website.
 
+## Get feedback on your first attempt
+
+[Join the first-project clinic · 첫 프로젝트 피드백 · はじめてのプロジェクト相談](https://github.com/fractalreason-coder/10xhuman-project-workbook/issues/1). Share your goal, a public attempt and one specific question. Unfinished work is welcome. Feedback is asynchronous and may be written by an AI assistant; it is not human mentoring or certification.
+
 ## What this workbook is for
 
 Students, early-career builders and people making their first small product with AI assistance. A spreadsheet, clickable sketch or one working page is a valid starting point. The objective is to make one useful flow, observe it in use and explain your decisions.
