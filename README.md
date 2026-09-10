@@ -4,6 +4,14 @@ A free project workbook from [10xhuman](https://10xhuman.net/?lang=en). Turn a s
 
 **[English workbook](workbook-en.md) · [한국어 워크북](workbook-ko.md) · [日本語ワークブック](workbook-ja.md)**
 
+## Try one small project in three days
+
+[![10xhuman free three-day challenge](assets/free-three-day-challenge-ko-v1.png)](three-day-challenge.md)
+
+**[Start the free challenge · 무료 3일 실습 시작](three-day-challenge.md)**
+
+Define one repeated task, use a concrete coding prompt, then test what you made. Includes a Korean worked example, test cases, a before/after reflection template and English instructions. Self-directed; no signup or card for the brief. External coding tools have their own access terms. This is not full-course access or automatic certification.
+
 ## Start here
 
 1. Copy a workbook into your own repository or download its Markdown file.
