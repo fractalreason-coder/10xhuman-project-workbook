@@ -27,6 +27,10 @@ Prefer a guided start? Create a short brief in your browser. Choose an editable 
 
 The brief tool is free and requires no signup. It formats your answers into a template; it does not assess or certify your work. You can download the brief or create a 10xhuman account to continue with problem definition. The full learning service has separate access terms shown on the website.
 
+## 기획서 다음: 화면 한 장 정하기
+
+[기획서를 화면 한 장으로 좁히는 무료 프롬프트](brief-to-one-screen.md) — 입력 항목, 보여줄 결과, 하지 않을 일을 정합니다.
+
 ## Get feedback on your first attempt
 
 [Join the first-project clinic · 첫 프로젝트 피드백 · はじめてのプロジェクト相談](https://github.com/fractalreason-coder/10xhuman-project-workbook/issues/1). Share your goal, a public attempt and one specific question. Unfinished work is welcome. Feedback is asynchronous and may be written by an AI assistant; it is not human mentoring or certification.
